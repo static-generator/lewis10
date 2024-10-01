@@ -1,8 +1,5 @@
 # lewis10
-## Althea Yzabelle M. Bolalin
-
-> Calauag, Naga City
+## My Favorites and Interest
 
 [Facebook](https://www.facebook.com/profile.php?id=100077729217242&sk=about)
 
-### My Favorites and Interest
