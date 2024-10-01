@@ -10,3 +10,7 @@
 
 # 3. Movie ![alt text](https://i.pinimg.com/564x/ff/5a/a4/ff5aa4218c176a962a163fd8b1fcc058.jpg)\
 
+# 4. Food ![alt text](https://i.pinimg.com/564x/6e/c0/47/6ec047c4a687698f066fbad72d571391.jpg)
+
+# 5. Game ![alt text](https://i.pinimg.com/564x/82/23/36/822336fff205caae3c2caca3f18814eb.jpg))
+
