@@ -14,3 +14,4 @@
 
 # 5. Game ![alt text](https://i.pinimg.com/564x/82/23/36/822336fff205caae3c2caca3f18814eb.jpg))
 
+# 6. Music <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0714e7e6oMleX6iyLR1LZy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
